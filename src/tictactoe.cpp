@@ -17,8 +17,7 @@ int main() {
 	//player one goes first
 	//then player two
 	//shows the empty tictactoe field first
-	//how to interact? using number
-	//check nubmber pad for correct location
+	//how to interact? using alphabet and numbers (like chess board)
 	bool gotInput = false;
 	string marks[3][3];
 	for(int i = 0; i < 3; i++){
